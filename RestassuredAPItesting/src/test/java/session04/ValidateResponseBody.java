@@ -1,4 +1,4 @@
-package Session4;
+package session04;
 
 import org.testng.annotations.Test;
 
